@@ -2,6 +2,7 @@
 ### 机器学习/深度学习
 - 书籍
     + [机器学习 周志华](https://detail.tmall.com/item.htm?spm=a230r.1.14.13.ebb2eb2HeKTj8&id=527684706922&cm_id=140105335569ed55e27b&abbucket=8)
+    + [Deep Learning Yoshua Bengio & Ian Goodfellow](https://item.jd.com/12128543.html)
 - 课程
     + 李宏毅
         - [好多课程、ppt、video](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
